@@ -3,14 +3,14 @@ Testing the user-experience for the Suggest Workflows in Repo Sidebar experiment
 
 When using this repo:
 - Make sure the organization and repo meet all eligibility criteria below.
-- Don't run any Actions workflows so that it stays eligible for displaying treatement
+- Don't run any Actions workflows so that it stays eligible for displaying treatment
 
 Central Epic issue for experiment: https://github.com/github/octogrowth/issues/1263
 
 ### Audience 🎯
-**Persona Group:** Developers
-**Stage:** Awareness
-**Surface:** github.com/{org}/{repo}
+- **Persona Group:** Developers
+- **Stage:** Awareness
+- **Surface:** github.com/{org}/{repo}
 
 **Eligibility Criteria**
 - NOT Sales-serve – (meaning self-serve, free, legacy)
